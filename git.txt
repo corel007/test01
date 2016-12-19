@@ -1,0 +1,11 @@
+git config --list
+git config --global user.name corel007
+git config --global user.email m.mekshun@gmail.com
+git config --global user.password dadaSa17
+git config --global --unset user.password
+git config --list
+$ cd D:/_work_2017/android/projects/test1
+git init
+git status
+git add .
+git status
